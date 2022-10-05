@@ -2,7 +2,7 @@
 ## write your program without typing
 
 ### Requirements
-> Install Python on your system
+> Install Python on your system, 
 > Install pyautogui
 
 ### What to do?
