@@ -2,8 +2,8 @@
 ## write your program without typing
 
 ### Requirements
-> Install Python on your system, 
-> Install pyautogui
+>> Install Python on your system, 
+>> Install pyautogui
 
 ### What to do?
 > Open AutoWrite.py file with any editor then paste your program in the place of "type your code here".
